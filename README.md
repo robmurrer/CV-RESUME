@@ -16,7 +16,7 @@
 ### 2016 AWR PDK Training
 
 ### 2015 University Central Florida
-* Computer Engineering
+* BS Computer Engineering
 * Minor: Intelligent Robotic Systems
 * Magna Cum Laude
 
