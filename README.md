@@ -3,7 +3,7 @@
 * Electronic Design Automation (EDA)
 * Seattle, WA
 
-## Experince
+## Experience
 ### 2018-Present OG Semi
 ### 2015-2018 TDK
 ### 2014 University of Central Florida
