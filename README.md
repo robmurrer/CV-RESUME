@@ -32,7 +32,7 @@
 - Bridge Code
 
 ### 2016 AWR PDK Training
-- Simulation Models, Parameteric Cells
+- Simulation Models, Parametric Cells (PCells)
 - Packaging Disribution
 
 ### 2015 University Central Florida
