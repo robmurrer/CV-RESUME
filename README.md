@@ -11,7 +11,7 @@
 
 ### 2015-2018 TDK
 - Co-Developer of the BAW PDK
-- Ansys Integrations to HFSS
+- AWR Integrations to HFSS/ANSYS
 - Plot and Graph Automations
 
 ### 2014 University of Central Florida
