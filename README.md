@@ -3,7 +3,7 @@
 * Electronic Design Automation (EDA)
 * Seattle, WA
 
-## Experience
+## Work Experience
 ### 2018-Present OG Semi
 - Lead Developer of the BAW PDK
 - Monte Carlo Analysis
