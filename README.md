@@ -5,15 +5,32 @@
 
 ## Experience
 ### 2018-Present OG Semi
+- Lead Developer of the BAW PDK
+- Monte Carlo Analysis
+- Modelcard Database
+
 ### 2015-2018 TDK
+- Co-Developer of the BAW PDK
+- Ansys Integrations to HFSS
+- Plot and Graph Automations
+
 ### 2014 University of Central Florida
 
 ## Education & Training
 
 ### 2019 Deep Learning Course
+
 ### 2017 DWT DRC Training
+- DRC Deck Writing
+- AWR Integrations
+
 ### 2017 AWR PDK Training (Advanced)
+- Advanced Switching Models
+- Bridge Code
+
 ### 2016 AWR PDK Training
+- Simulation Models, Parameteric Cells
+- Packaging Disribution
 
 ### 2015 University Central Florida
 * BS Computer Engineering
