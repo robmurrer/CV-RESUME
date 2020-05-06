@@ -15,10 +15,13 @@
 - Plot and Graph Automations
 
 ### 2014 University of Central Florida
+- Teaching Assistant
+- Computer Science I, II
 
 ## Education & Training
 
-### 2019 Deep Learning Course
+### 2019 Deep Learning
+- Secret
 
 ### 2017 DWT DRC Training
 - DRC Deck Writing
