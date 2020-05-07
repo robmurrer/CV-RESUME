@@ -3,6 +3,11 @@
 * Electronic Design Automation (EDA)
 * Seattle, WA
 
+## Objectives
+- Join small team and provide technical leadership for advanced simulation and layout flows of PCBs, RF Modules, & Acoustics
+- Blackbox older technologies and move them to a modern infrastructure
+- Ship cool hardware!
+
 ## Work Experience
 ### 2018-Present OG Semi
 - Lead Developer of the BAW PDK
