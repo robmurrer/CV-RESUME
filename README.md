@@ -23,6 +23,8 @@
 ### 2019 Deep Learning
 - Secret
 
+### 2018 Network+ Training
+
 ### 2017 DWT DRC Training
 - DRC Deck Writing
 - AWR Integrations
