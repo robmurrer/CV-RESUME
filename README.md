@@ -5,7 +5,7 @@
 
 ## Objectives
 - Join small team and provide technical leadership for advanced simulation and layout flows of PCBs, RF Modules, & Acoustics
-- Blackbox older technologies and move them to a modern infrastructure
+- Blackbox and wrap useful older technologies, and move them to a modern infrastructure to be used for the next decade
 - Ship cool hardware!
 
 ## Work Experience
