@@ -43,7 +43,7 @@
 - Packaging Disribution
 
 ### 2015 University Central Florida
-* BS Computer Engineering
+* Bachelor of Science in Computer Engineering
 * Minor: Intelligent Robotic Systems
 * Magna Cum Laude
 
