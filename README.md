@@ -55,5 +55,9 @@
 ### 2019 First Robotics
 - Mentor & Coach 
 
+### 2018 Diversity Taskforce @ a school
+- Data aggregation and visualization
+- Empathy
+
 ### 2006-Present Alfred Washburn Center
 - IT & Website: http://www.alfredwashburn.org
