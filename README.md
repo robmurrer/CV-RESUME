@@ -5,12 +5,12 @@
 
 ## Objectives
 - Join small team and provide technical leadership for advanced simulation and layout flows of PCBs, RF Modules, & Acoustics
-- Blackbox and wrap useful older technologies, and move them to a modern infrastructure to be used for the next decade
+- Blackbox and wrap useful older technologies and then move them to a modern infrastructure to be used for the next decade
 - Ship cool hardware!
 
 ## Work Experience
 ### 2018-Present OG Semi
-- Lead Developer of the BAW PDK
+- Lead Developer of the Bulk Acoustic Wave (BAW) Filter PDK
 - Monte Carlo Analysis
 - Modelcard Database
 
