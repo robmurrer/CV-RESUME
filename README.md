@@ -40,7 +40,7 @@
 
 ### 2016 AWR PDK Training
 - Simulation Models, Parametric Cells (PCells)
-- Packaging Disribution
+- Packaging Distribution
 
 ### 2015 University Central Florida
 * Bachelor of Science in Computer Engineering
