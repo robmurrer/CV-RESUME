@@ -4,7 +4,7 @@
 * Seattle, WA
 
 ## Objectives
-- Join small team and provide technical leadership for advanced simulation and layout flows of PCBs, RF Modules, & Acoustics
+- Join small team and provide technical leadership for advanced simulation and layout flows of PCBs, RF Modules, & Acoustic Devices (Filters)
 - Blackbox and wrap useful older technologies and then move them to a modern infrastructure to be used for the next decade
 - Ship cool products that everyone loves to use!
 
