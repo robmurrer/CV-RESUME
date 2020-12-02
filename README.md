@@ -5,7 +5,7 @@
 
 ## Objectives
 - Join small team and provide technical leadership for advanced simulation and layout flows of PCBs, RF Modules, & Acoustic Devices (Filters)
-- Work within existing design flows to improve them and set designer up for smooth design and success.
+- Work within and extend existing design flows, to improve them, and set designers up for smooth design & success.
 - Ship cool products that everyone loves to use!
 
 ## Work Experience
