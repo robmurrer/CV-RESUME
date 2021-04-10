@@ -1,7 +1,7 @@
 # Rob Murrer
-* Hardware & Software Engineer
-* Electronic Design Automation (EDA)
+* Hardware & Software Engineer - Electronic Design Automation (EDA)
 * Pensacola, FL
+* https://robmurrer.com
 
 ## Summary
 * Comfortable wearing may hats and working the full stack.
