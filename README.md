@@ -7,9 +7,11 @@
 * Seasoned engineer, comfortable wearing may hats and working the full stack.
 * Experienced with developing and shipping products that span multiple platforms and disciplines.
 * Customer focused, with concentration on developing tools and flows that solve real problems quickly.
+* Remote Engineer for 4+ Years.
 
 ## Work Experience
 ### 2018-Present <Redacted> Technologies
+- Staff Engineer
 - Lead Developer of the Bulk Acoustic Wave (BAW) Filter PDK (C++)
   - Schematic & Layout fully linked with 6 varying simulation models for trade off of speed and accuracy
   - Less than 2 weeks to train RF Designer to be taping out BAW Devices
@@ -23,6 +25,7 @@
   - Full client-side editor of database allows multiple stack designers to work in parallel
 
 ### 2015-2018 TDK
+- Senior Engineer
 - Co-Developer of the BAW PDK (C++)
   - Creation of many acoustic models based on whitepapers and Matlab prototypes
   - Layout Engine for linking Design Rule Manual with Masks 
