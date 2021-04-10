@@ -3,13 +3,13 @@
 * Electronic Design Automation (EDA)
 * Pensacola, FL
 
-## Objectives
-- Join small team and provide technical leadership for advanced simulation and layout flows of PCBs, RF Modules, & Acoustic Devices (Filters)
-- Work within and extend existing design flows, to improve them, and set designers up for smooth design & success.
-- Ship cool products that everyone loves to use!
+## Summary
+* Seasoned engineer, comfortable wearing may hats and working the full stack.
+* Experienced with developing and shipping products that span multiple platforms and disciplines.
+* Customer focused, with concentration on developing tools and flows that solve real problems quickly.
 
 ## Work Experience
-### 2018-Present OG Semi
+### 2018-Present <Redacted> Technologies
 - Lead Developer of the Bulk Acoustic Wave (BAW) Filter PDK (C++)
   - Schematic & Layout fully linked with 6 varying simulation models for trade off of speed and accuracy
   - Less than 2 weeks to train RF Designer to be taping out BAW Devices
@@ -44,8 +44,6 @@
 
 ## Education
 
-
-
 ### 2015 University Central Florida
 * Bachelor of Science in Computer Engineering
 * Minor: Intelligent Robotic Systems
@@ -54,8 +52,6 @@
 ## Training
 
 ### 2019 Deep Learning Contests w/ W&B (Python)
-
-
 
 ### 2017 DWT Design Rule Check (DRC) Training
 - DRC Deck Writing
