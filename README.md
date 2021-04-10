@@ -4,13 +4,13 @@
 * Pensacola, FL
 
 ## Summary
-* Seasoned engineer, comfortable wearing may hats and working the full stack.
+* Comfortable wearing may hats and working the full stack.
 * Experienced with developing and shipping products that span multiple platforms and disciplines.
-* Customer focused, with concentration on developing tools and flows that solve real problems quickly.
+* Customer focused with concentration on developing tools and flows that solve real problems quickly.
 * Remote Engineer for 4+ Years.
 
 ## Work Experience
-### 2018-Present <Redacted> Technologies
+### 2018-Present 
 - Staff Engineer
 - Lead Developer of the Bulk Acoustic Wave (BAW) Filter PDK (C++)
   - Schematic & Layout fully linked with 6 varying simulation models for trade off of speed and accuracy
